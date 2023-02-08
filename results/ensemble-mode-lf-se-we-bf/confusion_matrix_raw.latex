@@ -1,0 +1,9 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &    0 &     1 &    2 \\
+\midrule
+0 &  552 &   186 &   54 \\
+1 &  257 &  1170 &  130 \\
+2 &  132 &   215 &  489 \\
+\bottomrule
+\end{tabular}
